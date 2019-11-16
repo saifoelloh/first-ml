@@ -1,0 +1,11 @@
+{
+  "name": "first_ml",
+  "version": "1.0.0",
+  "description": "first try into ml",
+  "main": "index.js",
+  "author": "saifoelloh <saifoelloh@gmai.com>",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^2.0.0-alpha.9"
+  }
+}
